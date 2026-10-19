@@ -1,0 +1,24 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "progoals-agent-skills",
+  "version": "0.1.0",
+  "description": "Free, MIT-licensed SKILL.md skills from ProGoals: Template Scrubber, Product Rebuild Gate, and lite subsets of Permission Gate and Untrusted-Content Fence. Approval-first and draft-only. Full versions on Agensi. Not affiliated with xAI or Cursor.",
+  "author": {
+    "name": "Kamal Katul (ProGoals)",
+    "url": "https://www.agensi.io/creators/kamal-katul"
+  },
+  "homepage": "https://www.agensi.io/creators/kamal-katul",
+  "repository": "https://github.com/kamalkatul92kk-sudo/progoals-agent-skills",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "guardrails",
+    "approval",
+    "prompt-injection",
+    "secrets",
+    "critique",
+    "digital-products",
+    "grok-bot",
+    "skill-md"
+  ]
+}
